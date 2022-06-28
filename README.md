@@ -1,3 +1,5 @@
+![javascript](https://user-images.githubusercontent.com/82731409/176181596-cef84e35-6b0a-441b-a8a0-4a0d7092f6b7.gif)
+
 <h1 align="center">Hi 👋, I'm Matias Roselló</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
