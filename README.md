@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="Matias Roselló" src="https://github.com/user-attachments/assets/911ad4ba-4041-4364-8b50-3e0b228ee5b7" />
+
 <div align="center">
 
 # Hi, I'm Matias 👋
