@@ -1,96 +1,163 @@
-<p align="center">
+<div align="center">
 
 # Hi, I'm Matias 👋
 
-### Building useful technology through AI, curiosity and continuous learning.
+### Technology Builder
 
-Artificial Intelligence • Software • GIS • Automation
+*Learning continuously • Building with AI • Solving real-world solutions*
 
-</p>
+Artificial Intelligence • Software • GIS • Automation • Drones • Coaching
 
----
-
-## About Me
-
-I'm an engineering student from Argentina who enjoys building technology to solve real-world problems.
-
-Rather than following only tutorials, I learn by creating projects.
-
-Most of my work is built with AI-assisted development while I continue learning the fundamentals of software engineering.
-
-I enjoy connecting different disciplines like Artificial Intelligence, GIS, automation, engineering and coaching to create practical solutions.
+</div>
 
 ---
 
-## 🚀 Current Focus
+# About Me
+
+I'm a technology enthusiast from Argentina driven by curiosity and continuous learning.
+
+I enjoy transforming ideas into practical solutions by combining Artificial Intelligence, software development, geospatial technologies, automation and human development.
+
+Rather than only following tutorials, I prefer learning by building real-world projects.
+
+Artificial Intelligence is an essential part of my workflow—not to replace understanding, but to accelerate learning, experimentation and problem solving.
+
+I believe that the best solutions emerge where different disciplines meet.
+
+---
+
+# Areas of Interest
 
 - 🤖 Artificial Intelligence
-- 💻 AI-assisted Software Development
-- 🛰 GIS & Remote Sensing
-- 🚁 Drone Mapping
+- 💻 AI-Assisted Software Development
+- 🛰️ GIS & Remote Sensing
+- 🌍 Spatial Data & Mapping
+- 🚁 Drone Technologies
 - ⚙️ Automation
-- 📚 Continuous Learning
+- 🧠 Coaching & Human Development
+- 🚀 Digital Product Design
 
 ---
 
-## 🧠 How I Build
+# My Workflow
 
-- AI-assisted development
-- Product thinking
-- Prompt Engineering
-- Rapid prototyping
-- Learning by building
-- Solving real-world problems
+```text
+💡 Understand the problem
+          ↓
+🔍 Research
+          ↓
+🤖 Collaborate with AI
+          ↓
+⚙️ Build
+          ↓
+📚 Learn
+          ↓
+🔄 Improve
+          ↓
+🚀 Deliver
+```
 
----
-
-## 🌱 Technologies I'm Learning
-
-- Python
-- JavaScript
-- TypeScript
-- SQL
-- PostgreSQL
-- Git
-- GitHub
-- Docker
-- React
-- Next.js
+I use every project as an opportunity to learn new technologies while creating useful solutions.
 
 ---
 
-## 🚀 Current Projects
+# Technologies I'm Exploring
 
-- AI Coaching Platform
-- Custom GPTs
-- GIS Automation
-- Road Infrastructure Solutions
-- AI Content Creation
-- Future SaaS Projects
+These are the technologies and tools I currently use or learn through real-world projects.
 
----
-
-## 💭 Philosophy
-
-> I don't aim to write the most code.
-
-> I aim to build useful software, learn continuously and understand the technology behind it.
+| Category | Technologies |
+|-----------|--------------|
+| Languages | Python • JavaScript • TypeScript • SQL |
+| Databases | PostgreSQL • Supabase • PostGIS |
+| AI | ChatGPT • OpenAI API • Claude • Cursor |
+| Development | Git • GitHub • VS Code • Docker |
+| GIS | QGIS • ArcGIS • Google Earth Pro |
+| Other | Prompt Engineering • Drone Mapping • Automation |
 
 ---
 
-## 📫 Contact
+# Featured Projects
 
-- 📧 rosellomatias87@gmail.com
-- 🌎 Argentina
+### 🛰️ Road GIS Platform – Chaco Province
+
+A complete GIS ecosystem for road infrastructure management.
+
+The project includes:
+
+- Android application for field data collection
+- Offline GIS capabilities
+- Road infrastructure surveys
+- Automatic synchronization with Supabase
+- Web administration panel for visualization and management
+- Centralized geospatial database
 
 ---
 
-<p align="center">
+### 🚜 Road Equipment Management System
 
-Still learning.
+A multi-user web platform designed for managing road machinery across the province.
 
-Still building.
+Main features:
 
-Still curious.
+- Multi-user access for field technicians
+- Machinery inventory and inspections
+- Data synchronization with Supabase
+- Administrative dashboard
+- Centralized reporting
+- Equipment lifecycle monitoring
 
-</p>
+---
+
+# What Drives Me
+
+I don't try to know everything.
+
+I try to become better at learning.
+
+Every project is an opportunity to understand something new, improve my skills and build something useful.
+
+---
+
+# Philosophy
+
+> Technology becomes meaningful when it helps solve real problems.
+
+> Curiosity is more valuable than certainty.
+
+> Learning never stops.
+
+---
+
+# Beyond Technology
+
+Outside software, I'm also interested in:
+
+- Coaching
+- Neuroscience
+- Personal Development
+- Drones
+- Engineering
+- Innovation
+- Continuous Learning
+
+I enjoy connecting technology with people, processes and real-world challenges.
+
+---
+
+# Let's Connect
+
+📍 Resistencia, Chaco, Argentina
+
+📧 **rosellomatias87@gmail.com**
+
+---
+
+<div align="center">
+
+### Always Curious.
+
+### Always Learning.
+
+### Always Building.
+
+</div>
