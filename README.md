@@ -1,4 +1,4 @@
-<img width="1774" height="887" alt="Matias Roselló" src="https://github.com/user-attachments/assets/911ad4ba-4041-4364-8b50-3e0b228ee5b7" />
+<img width="1983" height="793" alt="ChatGPT Image 2 jul 2026, 20_35_15" src="https://github.com/user-attachments/assets/f08891a5-424f-438d-b4c0-9eb387e7d826" />
 
 <div align="center">
 
