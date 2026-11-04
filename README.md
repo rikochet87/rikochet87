@@ -1,163 +1,119 @@
 <div align="center">
 
-# Hi, I'm Matias 👋
+# Matías Rosello
 
-### Technology Builder
+### AI-assisted software developer · GIS & geospatial systems
 
-*Learning continuously • Building with AI • Solving real-world solutions*
+I build complete, working systems for real problems — from the field to production — with AI as a core part of how I design and write code.
 
-Artificial Intelligence • Software • GIS • Automation • Drones • Coaching
+📍 Resistencia, Chaco, Argentina · 📧 rosellomatias87@gmail.com
 
 </div>
 
 ---
 
-# About Me
+## About me
 
-I'm a technology enthusiast from Argentina driven by curiosity and continuous learning.
+In 2022 I took over the GIS area of the road maintenance department of Chaco Province, Argentina. There was no digital data. Today the **~29,000 km rural road network and its 103 maintenance consortiums** run on a system I designed and built: an offline-first Android app for field technicians and a web platform for the office, with maps, surveys, budgets and hydrology.
 
-I enjoy transforming ideas into practical solutions by combining Artificial Intelligence, software development, geospatial technologies, automation and human development.
+I also build products of my own and for clients: a conversational AI assistant in production on the Anthropic API, a 2D CAD application written from scratch, management systems for small businesses and mobile apps.
 
-Rather than only following tutorials, I prefer learning by building real-world projects.
+I work end to end: I understand the problem, design the solution, build it with AI agents (Claude Code) and put it in the hands of the people who use it.
 
-Artificial Intelligence is an essential part of my workflow—not to replace understanding, but to accelerate learning, experimentation and problem solving.
+**Background that shapes how I work:**
 
-I believe that the best solutions emerge where different disciplines meet.
-
----
-
-# Areas of Interest
-
-- 🤖 Artificial Intelligence
-- 💻 AI-Assisted Software Development
-- 🛰️ GIS & Remote Sensing
-- 🌍 Spatial Data & Mapping
-- 🚁 Drone Technologies
-- ⚙️ Automation
-- 🧠 Coaching & Human Development
-- 🚀 Digital Product Design
+- 🏗️ Civil Engineering studies at UNNE (4 years)
+- 📐 Years of CAD drafting and 3D modeling for architecture and engineering projects
+- 🛰️ University Expert in Satellite Technology, Remote Sensing and GIS
+- 🧠 Certified Ontological Coach (AACOP), with a focus on neurocoaching
 
 ---
 
-# My Workflow
+## Featured work
+
+### 🛰️ SIG Vial Chaco — road network management platform
+*Private repository · in daily use*
+
+GIS platform for the provincial rural road network: 103 consortiums, 5 zones, ~29,000 km.
+
+- **Android field app** (React Native + Expo): works with no signal and syncs when it reconnects, background GPS tracking, bridge and culvert inspection forms, photos.
+- **Web platform** (Next.js + Supabase): interactive map, surveys, public works calculators and budgets, road equipment inventory, role-based permissions.
+- **Hydrology module**: rainfall from ~70 rain gauges interpolated over the road network (IDW, Thiessen), Paraná river levels and forecasts, flood mapping for Greater Resistencia from satellite imagery, and a flood forecast for Barranqueras built from rainfall in Brazil.
+- **Public reporting tools**: anyone can report road conditions or roadkill wildlife from their phone, with no account.
+
+`TypeScript` `React Native` `Next.js` `Supabase / PostgreSQL` `Leaflet` `QGIS` `Google Earth Engine`
+
+### 🤖 Aión — AI companion for coaching processes
+*In production · [aion.ontologico.workers.dev](https://aion.ontologico.workers.dev)*
+
+Conversational assistant that supports people between coaching sessions, based on the Ontology of Language. It complements a human coach; it doesn't replace one.
+
+- Built on the **Anthropic API**, deployed on **Cloudflare Workers**.
+- Process memory, user accounts, scheduled follow-ups and an admin panel.
+- Installable web chat; WhatsApp integration in progress.
+
+### 📐 TrazoCAD — 2D CAD in the browser
+*Personal product · in development*
+
+AutoCAD-style technical drawing software written from scratch as an installable, offline PWA. Pure JavaScript, **zero dependencies, no build step**.
+
+- AutoCAD command line and command names, with Spanish aliases.
+- Reads and writes DXF (2007, 2000, R12), including 3D polylines, 3D faces and TIN surfaces.
+- Handles real survey coordinates (Gauss-Krüger) with a local origin, so precision holds at any zoom.
+- Automated tests in headless Chrome.
+
+### 🧱 CalcuObra — construction calculators
+*[Repository](https://github.com/rikochet87/arq-web-app)*
+
+Draw a floor plan and get a bill of materials instantly. Upload an AutoCAD DXF and see it in 3D. Calculators for bricks, concrete, paint, ceramics, stairs and subfloors.
+
+`JavaScript` `Three.js` `Vercel`
+
+---
+
+## Client work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Football pitch management** | Bookings, POS with barcode scanner, stock and daily cash register for a 5-a-side pitch. Installable PWA. | React · Vite · Supabase |
+| **[Trópico café](https://rikochet87.github.io/tropico-cafe/)** | Single-page website with a scroll-driven 3D walkthrough of the venue. | Three.js |
+| **Método Pons** | Strength training app based on the method of Argentina's 5-time Strongest Man. | React Native · Firebase |
+| **[Noe Ferreyra](https://noeferreyra.pages.dev)** | Landing page with self-hosted fonts and security headers. | HTML · CSS · Cloudflare Pages |
+
+---
+
+## How I work
 
 ```text
-💡 Understand the problem
-          ↓
-🔍 Research
-          ↓
-🤖 Collaborate with AI
-          ↓
-⚙️ Build
-          ↓
-📚 Learn
-          ↓
-🔄 Improve
-          ↓
-🚀 Deliver
+Understand the real problem  →  design the solution  →  build it with AI agents
+        →  test it against real data  →  deliver it  →  learn and improve
 ```
 
-I use every project as an opportunity to learn new technologies while creating useful solutions.
+- **AI is my main development tool, not a shortcut.** I write project guides (`CLAUDE.md`) that capture decisions, known pitfalls and how each part is verified, so every session builds on the last one.
+- **I verify before I trust.** My projects include automated checks that compare results against known cases, official figures or independent sources.
+- **I document what I measured and what I ruled out**, so nobody repeats the same mistake twice.
 
 ---
 
-# Technologies I'm Exploring
+## Tech stack
 
-These are the technologies and tools I currently use or learn through real-world projects.
-
-| Category | Technologies |
-|-----------|--------------|
-| Languages | Python • JavaScript • TypeScript • SQL |
-| Databases | PostgreSQL • Supabase • PostGIS |
-| AI | ChatGPT • OpenAI API • Claude • Cursor |
-| Development | Git • GitHub • VS Code • Docker |
-| GIS | QGIS • ArcGIS • Google Earth Pro |
-| Other | Prompt Engineering • Drone Mapping • Automation |
+| | |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · SQL |
+| **Frontend & mobile** | React · Next.js · React Native / Expo · Vite · PWA |
+| **Backend & data** | Supabase / PostgreSQL · Firebase · Cloudflare Workers · Vercel |
+| **GIS & maps** | QGIS · Leaflet · GeoJSON · Google Earth Engine · remote sensing |
+| **AI** | Claude Code · Anthropic API · prompt engineering · AI agents |
+| **Design & CAD** | AutoCAD · Revit · SketchUp · Three.js |
 
 ---
 
-# Featured Projects
+## Languages
 
-### 🛰️ Road GIS Platform – Chaco Province
-
-A complete GIS ecosystem for road infrastructure management.
-
-The project includes:
-
-- Android application for field data collection
-- Offline GIS capabilities
-- Road infrastructure surveys
-- Automatic synchronization with Supabase
-- Web administration panel for visualization and management
-- Centralized geospatial database
-
----
-
-### 🚜 Road Equipment Management System
-
-A multi-user web platform designed for managing road machinery across the province.
-
-Main features:
-
-- Multi-user access for field technicians
-- Machinery inventory and inspections
-- Data synchronization with Supabase
-- Administrative dashboard
-- Centralized reporting
-- Equipment lifecycle monitoring
-
----
-
-# What Drives Me
-
-I don't try to know everything.
-
-I try to become better at learning.
-
-Every project is an opportunity to understand something new, improve my skills and build something useful.
-
----
-
-# Philosophy
-
-> Technology becomes meaningful when it helps solve real problems.
-
-> Curiosity is more valuable than certainty.
-
-> Learning never stops.
-
----
-
-# Beyond Technology
-
-Outside software, I'm also interested in:
-
-- Coaching
-- Neuroscience
-- Personal Development
-- Drones
-- Engineering
-- Innovation
-- Continuous Learning
-
-I enjoy connecting technology with people, processes and real-world challenges.
-
----
-
-# Let's Connect
-
-📍 Resistencia, Chaco, Argentina
-
-📧 **rosellomatias87@gmail.com**
-
----
+Spanish (native) · English (improving every day)
 
 <div align="center">
 
-### Always Curious.
-
-### Always Learning.
-
-### Always Building.
+**Open to remote work.** Let's talk: rosellomatias87@gmail.com
 
 </div>
