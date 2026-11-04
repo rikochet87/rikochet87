@@ -47,7 +47,7 @@ GIS platform for the provincial rural road network: 103 consortiums, 5 zones, ~2
 `TypeScript` `React Native` `Next.js` `Supabase / PostgreSQL` `Leaflet` `QGIS` `Google Earth Engine`
 
 ### 🤖 Aión — AI companion for coaching processes
-*In production · [aion.ontologico.workers.dev](https://aion.ontologico.workers.dev)*
+*In production, closed beta · [Showcase: what it is and how it works](https://github.com/rikochet87/aion-showcase)*
 
 Conversational assistant that supports people between coaching sessions, based on the Ontology of Language. It complements a human coach; it doesn't replace one.
 
