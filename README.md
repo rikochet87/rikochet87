@@ -56,7 +56,7 @@ Conversational assistant that supports people between coaching sessions, based o
 - Installable web chat; WhatsApp integration in progress.
 
 ### 📐 TrazoCAD — 2D CAD in the browser
-*Personal product · in development*
+*Personal product · in development · [Showcase with screenshots](https://github.com/rikochet87/trazocad-showcase)*
 
 AutoCAD-style technical drawing software written from scratch as an installable, offline PWA. Pure JavaScript, **zero dependencies, no build step**.
 
