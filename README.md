@@ -35,7 +35,7 @@ I work end to end: I understand the problem, design the solution, build it with 
 ## Featured work
 
 ### 🛰️ SIG Vial Chaco — road network management platform
-*Private repository · in daily use*
+*In daily use · [Showcase with screenshots](https://github.com/rikochet87/sig-vial-chaco-showcase) · [Live demo](https://sig-vial-chaco-panel.vercel.app/hidrologia/publico-85afwsdcuj)*
 
 GIS platform for the provincial rural road network: 103 consortiums, 5 zones, ~29,000 km.
 
