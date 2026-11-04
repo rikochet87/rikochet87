@@ -27,6 +27,7 @@ I work end to end: I understand the problem, design the solution, build it with 
 - 🛰️ University Expert in Satellite Technology, Remote Sensing and GIS — UTN Buenos Aires (2024, 90 h)
 - 🗺️ QGIS Integral: Spatial Data Analysis powered by ChatGPT — Centro REDES, CONICET associated unit (2024, 96 h, grade 10/10)
 - 🛣️ Road Maintenance and Conservation — Faculty of Engineering, UNNE (2024)
+- 📏 Training in AutoCAD and AutoCAD Civil 3D
 - 🧠 Certified Ontological Coach (AACOP), with a focus on neurocoaching
 
 ---
@@ -106,7 +107,7 @@ Understand the real problem  →  design the solution  →  build it with AI age
 | **Backend & data** | Supabase / PostgreSQL · Firebase · Cloudflare Workers · Vercel |
 | **GIS & maps** | QGIS · Leaflet · GeoJSON · Google Earth Engine · remote sensing |
 | **AI** | Claude Code · Anthropic API · prompt engineering · AI agents |
-| **Design & CAD** | AutoCAD · Revit · SketchUp · Three.js |
+| **Design & CAD** | AutoCAD · AutoCAD Civil 3D · Revit · SketchUp · Three.js |
 
 ---
 
