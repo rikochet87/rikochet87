@@ -66,7 +66,7 @@ AutoCAD-style technical drawing software written from scratch as an installable,
 - Automated tests in headless Chrome.
 
 ### 🧱 CalcuObra — construction calculators
-*[Repository](https://github.com/rikochet87/arq-web-app)*
+*[Live demo](https://arq-web-app-self.vercel.app/) · [Repository with screenshots](https://github.com/rikochet87/arq-web-app)*
 
 Draw a floor plan and get a bill of materials instantly. Upload an AutoCAD DXF and see it in 3D. Calculators for bricks, concrete, paint, ceramics, stairs and subfloors.
 
