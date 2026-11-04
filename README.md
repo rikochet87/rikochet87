@@ -78,7 +78,7 @@ Draw a floor plan and get a bill of materials instantly. Upload an AutoCAD DXF a
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Football pitch management** | Bookings, POS with barcode scanner, stock and daily cash register for a 5-a-side pitch. Installable PWA. | React · Vite · Supabase |
+| **[Football pitch management](https://github.com/rikochet87/football-pitch-manager-showcase)** | Bookings, POS with barcode scanner, stock and daily cash register for a 5-a-side pitch. Installable PWA. | React · Vite · Supabase |
 | **[Trópico café](https://rikochet87.github.io/tropico-cafe/)** | Single-page website with a scroll-driven 3D walkthrough of the venue. | Three.js |
 | **Método Pons** | Strength training app based on the method of Argentina's 5-time Strongest Man. | React Native · Firebase |
 | **[Noe Ferreyra](https://noeferreyra.pages.dev)** | Landing page with self-hosted fonts and security headers. | HTML · CSS · Cloudflare Pages |
