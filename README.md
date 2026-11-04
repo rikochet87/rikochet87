@@ -24,8 +24,9 @@ I work end to end: I understand the problem, design the solution, build it with 
 
 - 🏗️ Civil Engineering studies at UNNE (4 years)
 - 📐 Years of CAD drafting and 3D modeling for architecture and engineering projects
-- 🛰️ University Expert in Satellite Technology, Remote Sensing and GIS
-- 🗺️ Diploma in QGIS
+- 🛰️ University Expert in Satellite Technology, Remote Sensing and GIS — UTN Buenos Aires (2024, 90 h)
+- 🗺️ QGIS Integral: Spatial Data Analysis powered by ChatGPT — Centro REDES, CONICET associated unit (2024, 96 h, grade 10/10)
+- 🛣️ Road Maintenance and Conservation — Faculty of Engineering, UNNE (2024)
 - 🧠 Certified Ontological Coach (AACOP), with a focus on neurocoaching
 
 ---
