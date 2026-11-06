@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matías Rosello
+# Matías Roselló
 
 ### AI-assisted software developer · GIS & geospatial systems
 
