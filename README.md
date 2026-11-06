@@ -8,6 +8,8 @@ I build complete, working systems for real problems — from the field to produc
 
 📍 Resistencia, Chaco, Argentina · 📧 rosellomatias87@gmail.com
 
+🌐 **[Portfolio — explore my projects on a 3D terrain map](https://rikochet87.github.io/portfolio-relieve-3d/)**
+
 </div>
 
 ---
